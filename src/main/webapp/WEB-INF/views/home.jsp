@@ -13,8 +13,9 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<P>  이런 불효막심한! </P><br>
-<P>  이런 불효막심한!! </P><br>
+<br>
+<P>  이런 불효막심한! </P>
+<P>  이런 불효막심한!! </P>
 <img src="./image/1234.jpg">
 </body>
 </html>
